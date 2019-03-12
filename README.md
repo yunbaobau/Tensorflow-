@@ -25,6 +25,6 @@
 
 《深度学习》赵申剑，黎彧君，符天凡，李凯 译，人民邮电出版社
 
-有空时，可以看看电影 [《人工智能》] [1]
-[1](https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/3751704#viewPageContent)
+有空时，可以看看电影 
+[《人工智能》](https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/3751704#viewPageContent)
 让自己充满热情地进入这个领域。
